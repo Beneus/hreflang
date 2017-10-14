@@ -1,4 +1,4 @@
 HREFLANG GENERATOR
 
-Add hreflang link metadata tags to every page in Magento 2.
+Add hreflang link metadata tags to custom, category and product pages in Magento 2.
 
