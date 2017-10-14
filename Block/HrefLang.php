@@ -1,5 +1,5 @@
 <?php 
-namespace Datadial\hreflang\Block;
+namespace Beneus\hreflang\Block;
 
 
 class HrefLang extends \Magento\Framework\View\Element\Template
