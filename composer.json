@@ -1,0 +1,29 @@
+{
+  "name": "Beneus_hreflang",
+  "type": "magento2-module",
+  "description": "Beneus_hreflang",
+  "keywords": ["Magento2", "Admin", "href","lang", "hreflang"],
+  "homepage": "",
+  "aaaminimum-stability": "dev",
+  "license": "AFL - Academic Free License (AFL 3.0)",
+  "authors": [
+    {
+      "name": "Datadial"
+    }
+  ],
+  "require": {
+    "php": "~5.5.0|~5.6.0|~7.0.0",
+    "magento/magento-composer-installer": "*"
+  },
+  "extra": {
+    "map": [
+      [
+        "*",
+        "Beneus/hreflang"
+      ]
+    ]
+  }
+}
+]
+  }
+}
