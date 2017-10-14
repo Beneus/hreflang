@@ -6,7 +6,7 @@
 
         <route id="hreflang" frontName="hreflang" >
 
-            <module name="Datadial_hreflang"/>
+            <module name="Beneus_hreflang"/>
 
         </route>
 
